@@ -1,0 +1,7 @@
+{
+  "name": "qenta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
